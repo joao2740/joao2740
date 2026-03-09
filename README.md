@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [SEU NOME]
+# 👋 Olá, eu sou João Vitor
 
 💻 Desenvolvedor apaixonado por tecnologia e programação.
 🚀 Sempre aprendendo novas ferramentas e construindo projetos.
@@ -10,7 +10,7 @@
 * 🔭 Atualmente trabalhando em projetos pessoais
 * 🌱 Aprendendo novas tecnologias todos os dias
 * 👯 Interessado em colaborar em projetos Open Source
-* 📫 Como me encontrar: [seu email ou rede social]
+* 📫 Como me encontrar: jlino8722@gmail.com
 
 ---
 
@@ -33,9 +33,11 @@
 
 # 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO\&layout=compact\&theme=tokyonight)
 
 ---
 
