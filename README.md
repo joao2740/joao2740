@@ -31,14 +31,8 @@
 
 ---
 
-# 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=joao2740&amp;show_icons=true&amp;theme=tokyonight" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao2740&amp;layout=compact&amp;theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
 
----
 
 # 🔗 Redes sociais
 
